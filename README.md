@@ -1,15 +1,15 @@
 
 # E‑commerce RFM & CLV Analysis 📊
 
-This project explores how to segment customers based on Recency, Frequency, and Monetary (RFM) behavior and estimate their Customer Lifetime Value (CLV). It helps identify the most valuable customer segments and suggest strategies for retention and growth.
+This project explores how to segment customers based on **Recency, Frequency, and Monetary (RFM)** behavior and estimate their **Customer Lifetime Value (CLV)**. It helps identify the most valuable customer segments and suggests strategies for retention and growth.
 
-👉 **Live GitHub Pages Demo**:  
-View the interactive analysis and visualizations here:  
-🔗 [https://yasthilsingh.github.io/ecommerce-project/](https://yasthilsingh.github.io/ecommerce-project/)
+👉 **Live GitHub Pages Demo**  
+View the static HTML version of the analysis and visualizations here:  
+🔗 [https://yasthilsingh.github.io/EcommerceAnalysis/](https://yasthilsingh.github.io/EcommerceAnalysis/)
 
 🧠 **Want to see the code?**  
 You can explore the full Jupyter Notebook in this repository:  
-[Notebook.ipynb](Notebook.ipynb)
+📓 [`Notebook.ipynb`](Notebook.ipynb)
 
 ---
 
@@ -40,34 +40,31 @@ Which customer segments drive the most revenue and lifetime value, and how can w
 
 ### 💡 Key Findings
 
-- Gold Loyalists are most concentrated in the United Kingdom.
-- A small number of customers account for the majority of projected revenue (Pareto insight).
-- At-Risk customers appear across multiple regions — a clear opportunity for retention campaigns.
+- **Gold Loyalists** are most concentrated in the United Kingdom.
+- A small number of customers account for the majority of projected revenue (*Pareto insight*).
+- **At-Risk customers** appear across multiple regions — a clear opportunity for retention campaigns.
 
 ---
 
 ### 🔧 How to Run Locally
 
 ```bash
-git clone https://github.com/yasthilsingh/ecommerce-project.git
-cd ecommerce-project
+git clone https://github.com/yasthilsingh/EcommerceAnalysis.git
+cd EcommerceAnalysis
 pip install -r requirements.txt
 jupyter lab Notebook.ipynb
-```
 
----
 
 ### 🗂 Folder Structure
 
-```
-ecommerce-project/
-├── docs/            # GitHub Pages HTML version
+EcommerceAnalysis/
+├── docs/               # GitHub Pages HTML version
 │   └── index.html
-├── Notebook.ipynb     # Full analysis with code and markdown
+├── Notebook.ipynb      # Full analysis with code and markdown
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-```
+
 
 ---
 
