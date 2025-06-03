@@ -44,6 +44,12 @@ Which customer segments drive the most revenue and lifetime value, and how can w
 - A small number of customers account for the majority of projected revenue (*Pareto insight*).
 - **At-Risk customers** appear across multiple regions — a clear opportunity for retention campaigns.
 
+### 🏆 Top 10 Customers by Revenue
+
+The bar chart below highlights the top 10 customers based on total revenue, offering a quick view into your most valuable client base.
+
+![Top 10 Customers](images/Top%2010%20Customers.png)
+
 ---
 
 ### 🔧 How to Run Locally
